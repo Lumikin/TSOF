@@ -5,6 +5,7 @@
   "type": "module",
   "private": true,
   "scripts": {
+    "test": "vitest run",
     "test:watch": "vitest"
   },
   "devDependencies": {
