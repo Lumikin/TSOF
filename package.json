@@ -1,0 +1,13 @@
+{
+  "name": "math-lib",
+  "version": "1.0.0",
+  "description": "Biblioteca de funções matemáticas para exercícios de testes unitários com Vitest",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "test:watch": "vitest"
+  },
+  "devDependencies": {
+    "vitest": "^4.1.11"
+  }
+}
