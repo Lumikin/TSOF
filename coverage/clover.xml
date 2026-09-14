@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1789409627715" clover="3.2.0">
+  <project timestamp="1789409627715" name="All files">
+    <metrics statements="54" coveredstatements="54" conditionals="32" coveredconditionals="32" methods="12" coveredmethods="12" elements="98" coveredelements="98" complexity="0" loc="54" ncloc="54" packages="1" files="1" classes="1"/>
+    <file name="math.js" path="C:\Users\49211409870\Documents\4Semestre\TSOF\Exemplos\Unitários-Lib-Aluno\src\math.js">
+      <metrics statements="54" coveredstatements="54" conditionals="32" coveredconditionals="32" methods="12" coveredmethods="12"/>
+      <line num="2" count="2" type="stmt"/>
+      <line num="6" count="2" type="stmt"/>
+      <line num="10" count="2" type="stmt"/>
+      <line num="14" count="3" type="cond" truecount="2" falsecount="0"/>
+      <line num="15" count="1" type="stmt"/>
+      <line num="17" count="2" type="stmt"/>
+      <line num="21" count="2" type="stmt"/>
+      <line num="25" count="4" type="cond" truecount="2" falsecount="0"/>
+      <line num="26" count="1" type="stmt"/>
+      <line num="29" count="3" type="cond" truecount="4" falsecount="0"/>
+      <line num="30" count="1" type="stmt"/>
+      <line num="33" count="2" type="stmt"/>
+      <line num="34" count="2" type="stmt"/>
+      <line num="35" count="1007" type="stmt"/>
+      <line num="38" count="2" type="stmt"/>
+      <line num="42" count="2" type="stmt"/>
+      <line num="46" count="4" type="cond" truecount="4" falsecount="0"/>
+      <line num="47" count="2" type="stmt"/>
+      <line num="50" count="8" type="stmt"/>
+      <line num="51" count="2" type="stmt"/>
+      <line num="55" count="7" type="cond" truecount="4" falsecount="0"/>
+      <line num="56" count="2" type="stmt"/>
+      <line num="59" count="5" type="cond" truecount="2" falsecount="0"/>
+      <line num="60" count="1" type="stmt"/>
+      <line num="63" count="4" type="cond" truecount="2" falsecount="0"/>
+      <line num="64" count="1" type="stmt"/>
+      <line num="67" count="3" type="stmt"/>
+      <line num="68" count="2" type="cond" truecount="2" falsecount="0"/>
+      <line num="69" count="1" type="stmt"/>
+      <line num="73" count="2" type="stmt"/>
+      <line num="77" count="3" type="cond" truecount="2" falsecount="0"/>
+      <line num="78" count="1" type="stmt"/>
+      <line num="81" count="2" type="stmt"/>
+      <line num="85" count="6" type="cond" truecount="4" falsecount="0"/>
+      <line num="86" count="1" type="stmt"/>
+      <line num="89" count="5" type="cond" truecount="2" falsecount="0"/>
+      <line num="90" count="4" type="cond" truecount="2" falsecount="0"/>
+      <line num="92" count="3" type="stmt"/>
+      <line num="93" count="3" type="stmt"/>
+      <line num="95" count="3" type="stmt"/>
+      <line num="96" count="110" type="stmt"/>
+      <line num="97" count="110" type="stmt"/>
+      <line num="98" count="110" type="stmt"/>
+      <line num="101" count="3" type="stmt"/>
+      <line num="104" count="1" type="stmt"/>
+      <line num="105" count="1" type="stmt"/>
+      <line num="106" count="1" type="stmt"/>
+      <line num="107" count="1" type="stmt"/>
+      <line num="108" count="1" type="stmt"/>
+      <line num="109" count="1" type="stmt"/>
+      <line num="110" count="1" type="stmt"/>
+      <line num="111" count="1" type="stmt"/>
+      <line num="112" count="1" type="stmt"/>
+      <line num="113" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>
